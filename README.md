@@ -29,6 +29,6 @@ __*cse*__
 2. ece
 3. mech     
       i. mech a
-      ii. mech b
+            ii. mech b
 4. civil
 5. eee
