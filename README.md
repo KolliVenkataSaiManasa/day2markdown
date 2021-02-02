@@ -63,5 +63,5 @@ lkafewfhcie
 ## image inserting
 ![image](https://github.com/KolliVenkataSaiManasa/day2markdown/blob/master/image1.jpg)
 ## inserting videos
-[!video](https://img.youtube.com/vi/NoHjO2Ds6U8/0.jpg)]
+[![video](https://img.youtube.com/vi/NoHjO2Ds6U8/0.jpg)]
 (https://www.youtube.com/watch?v=NoHjO2Ds6U8)
