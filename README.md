@@ -36,9 +36,9 @@ __*cse*__
 - cse
 - ece
 - mech
-      * mech a
-      * mech b
+      *  mech a
+      *  mech b
 - civil
-      * civil a
-      * civil b
+      *  civil a
+      *  civil b
 - eee
