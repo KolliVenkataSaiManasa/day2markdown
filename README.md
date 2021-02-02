@@ -35,10 +35,10 @@ __*cse*__
 ## unordered list
 - cse
 - ece
-- mech
+-  mech
       *  mech a
       *  mech b
-- civil
+-  civil
       *  civil a
       *  civil b
-- eee
+-  eee
