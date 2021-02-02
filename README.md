@@ -32,3 +32,13 @@ __*cse*__
       2. mech b
 4. civil
 5. eee
+## unordered list
+_ cse
+_ ece
+_ mech
+      _ mech a
+      _ mech b
+_ civil
+      _ civil a
+      _ civil b
+_ eee
