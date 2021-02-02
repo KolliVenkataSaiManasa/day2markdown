@@ -42,3 +42,12 @@ __*cse*__
       *  civil a
       *  civil b
 -  eee
+## codeing 
+
+```
+def fun():
+      print("hello apssdc")
+````
+```
+fun()
+```
