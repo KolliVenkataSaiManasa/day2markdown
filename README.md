@@ -56,4 +56,4 @@ dajfjkfjee
 lkafewfhcie
 `
 ## inserting urls
-.[manasa].(https://www.markdownguide.org/cheat-sheet/)
+[link](https://www.markdownguide.org/cheat-sheet/)
